@@ -1,6 +1,4 @@
-# 人工智能导论Final - 实验报告
-
-**梅佳奕 10165300206**
+# Image Annotation
 
 - 数据集：Flickr8k   
 
